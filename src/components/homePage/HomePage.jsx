@@ -11,18 +11,24 @@ import LogoClouds from '../logoClouds/LogoClouds'
 import { useState } from 'react'
 import { useEffect } from 'react'
 import Skeleton from '../skeleton/Skeleton'
+import { Suspense } from 'react'
 
 const HomePage = () => {
     const [loading, setLoading] = useState(true)
     useEffect(()=>{       
         setTimeout(() => {
             setLoading(false)
-        }, 1000);
+        }, 500);
     },[])
   return (
   
           <div className="">
-            {loading && <Skeleton/>}
+            {loading &&   
+             <Suspense fallback={<Skeleton/>}>
+                <Skeleton/>
+             </Suspense>
+            
+            }
             <div className="">
                 <Carousel/>
                 <Products/>

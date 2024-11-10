@@ -17,13 +17,7 @@ const Skeleton = () => {
         </div>
         <span className="h-2 bg-gray-300 rounded-full w-16 "></span>
       </div>
-      <div className=' w-full flex justify-between items-start animate-pulse'>
-        <div className="block">
-            <h3 className='h-3 bg-gray-300 rounded-full  w-48 mb-4'></h3>
-            <p className='h-2 bg-gray-300 rounded-full w-32 mb-2.5'></p>
-        </div>
-        <span className="h-2 bg-gray-300 rounded-full w-16 "></span>
-      </div>
+    
       </div>
     </div>
     </div>
