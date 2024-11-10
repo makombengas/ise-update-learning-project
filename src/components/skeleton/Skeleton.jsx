@@ -2,7 +2,8 @@
 
 const Skeleton = () => {
   return (
-    <div className="mx-auto max-w-[90rem] h-screen flex justify-center items-center xl:gap-4 py-2 px-4">
+    <div className="z-50  flex justify-center h-screen items-center bg-gradient-to-r from-[#3C4448] via-[#5D696F] to-[#909CA2] fixed  w-full ">
+        <div className="mx-auto max-w-[90rem]  flex justify-center items-center xl:gap-4 py-2 px-4">
         <div role='status' className='max-w-sm border border-gray-300 rounded-lg p-4'>
       <div className="animate-pulse w-full bg-gray-300 h-48 rounded-lg mb-5 flex justify-center items-center">
         <svg className="w-8 h-8 stroke-gray-400" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -24,6 +25,7 @@ const Skeleton = () => {
         <span className="h-2 bg-gray-300 rounded-full w-16 "></span>
       </div>
       </div>
+    </div>
     </div>
   )
 }
