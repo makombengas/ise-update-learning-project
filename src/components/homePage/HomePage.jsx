@@ -22,13 +22,9 @@ const HomePage = () => {
     },[])
   return (
   
-          <div className="">
-            {loading &&   
+         
              <Suspense fallback={<Skeleton/>}>
-                <Skeleton/>
-             </Suspense>
-            
-            }
+               
             <div className="">
                 <Carousel/>
                 <Products/>
@@ -39,7 +35,10 @@ const HomePage = () => {
                 <Support/>
                 <LogoClouds/>    
             </div>
-          </div>
+             </Suspense>
+            
+          
+       
  
   )
 }
