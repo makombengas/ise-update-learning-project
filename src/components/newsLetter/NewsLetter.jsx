@@ -4,7 +4,7 @@ import { useTranslations } from "next-intl"
 const NewsLetter = () => {
     const newsLetter = useTranslations("NewsLetter")
   return (
-    <div className=" py-8 px-4 md:py-16 w-full xl:border-[.5px] xl:border-dotted   mb-16 h-auto max-w-[90rem] gap-8 mx-auto bg-[#D19B2E] ">
+    <div className=" py-8 px-4 md:py-16 w-full border-none md::border-[.5px] md:border-dotted   mb-16 h-auto max-w-[90rem] gap-8 mx-auto bg-[#D19B2E] ">
         <div className=" grid grid-cols-1 xl:grid-cols-2 place-items-center   gap-4 ">
             <div className="w-full flex  justify-center xl:justify-start items-center xl:items-start flex-col gap-8  xl:gap-4 ">
                 <h1 className="text-[#3C4448] text-center xl:text-start md:mx-16 uppercase text-[1.5rem]  md:text-[2.5rem] font-bold">
