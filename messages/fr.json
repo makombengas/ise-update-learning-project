@@ -1,0 +1,548 @@
+{
+  "LanguageSwitcher": {
+    "switchTo": "Switch to {locale}"
+  },
+  "Search": {
+  "placeholder": "Chercher...",
+  "search": "Chercher...",
+  "close": "Fermer",
+  "noResults": "Aucun résultat trouvé",
+  "searchFor": "Rechercher pour",
+  "products": "Produits",
+  "productsSub": "Produits",
+  "services": "Services",
+  "servicesSub": "Services"
+},
+    "Navigation": {
+      "nav": [
+        {
+          "id": 0,
+          "title": "Produits",
+          "path": "/products",
+          "image": "/images/auto_charger.png",
+          "subNav": [
+            {
+              "id": 0,
+              "title": "Série SMART CONNECT",
+              "path": "/smart-connect-serie",
+              "productsArray": [
+                {
+                  "id": 0,
+                  "title": "SMART CONNECT KNX Accès à Distance",
+                  "subtitle": "Avec notre série SMART CONNECT, nous intégrons de nombreux systèmes dans KNX...",
+                  "button": "En savoir plus",
+                  "link": "smart-connect-knx-fernzugriff",
+                  "image": "/images/infografik.png"
+                },
+                {
+                  "id": 1,
+                  "title": "SMART CONNECT KNX e-charge II",
+                  "subtitle": "Avec notre série SMART CONNECT, nous intégrons de nombreux systèmes dans KNX...",
+                  "button": "En savoir plus",
+                  "link": "smart-connect-knx-e-charge-ii",
+                  "image": "/images/infografik.png"
+                },
+                {
+                  "id": 2,
+                  "title": "SMART CONNECT KNX Sonos",
+                  "subtitle": "Avec notre série SMART CONNECT, nous intégrons de nombreux systèmes dans KNX...",
+                  "button": "En savoir plus",
+                  "link": "smart-connect-knx-sonos",
+                  "image": "/images/infografik.png"
+                }
+              ]
+            },
+            {
+              "id": 1,
+              "title": "Série SMART APP KNX",
+              "path": "/smart-app-knx-serie",
+              "productsArray": [
+                {
+                  "id": 0,
+                  "title": "SMART APP KNX Axis",
+                  "subtitle": "Avec notre série SMART APP KNX, nous intégrons une variété de systèmes dans KNX...",
+                  "button": "En savoir plus",
+                  "link": "smart-app-knx-axis",
+                  "image": "/images/camera.png"
+                }
+              ]
+            },
+            {
+              "id": 2,
+              "title": "KNX RF",
+              "path": "/knx-rf",
+              "productsArray": [
+                {
+                  "id": 0,
+                  "title": "Interface USB KNX RF Multi",
+                  "subtitle": "Avec notre série SMART CONNECT, nous intégrons de nombreux systèmes dans KNX...",
+                  "button": "En savoir plus",
+                  "link": "knx-rf-multi-usb-schnittstelle",
+                  "image": "/images/knx_key.png"
+                },
+                {
+                  "id": 1,
+                  "title": "Vanne de Radiateur KNX RF Multi",
+                  "subtitle": "Avec notre série SMART CONNECT, nous intégrons de nombreux systèmes dans KNX...",
+                  "button": "En savoir plus",
+                  "link": "knx-rf-multi-heizkorperventil",
+                  "image": "/images/knx_heater.png"
+                },
+                {
+                  "id": 2,
+                  "title": "Coupleur Media KNX RF Multi/TP ou Répéteur RF",
+                  "subtitle": "Avec notre série SMART CONNECT, nous intégrons de nombreux systèmes dans KNX...",
+                  "button": "En savoir plus",
+                  "link": "knx-rf-multi-tp-medienkoppler-oder-rf-repeater",
+                  "image": "/images/csm.png"
+                }
+              ]
+            },
+            {
+              "id": 3,
+              "title": "Feu CO2 Ise",
+              "path": "/ise-co2-ampel",
+              "productsArray": []
+            },
+            {
+              "id": 4,
+              "title": "Points de Vente",
+              "path": "/bezugsquelle",
+              "productsArray": []
+            },
+            {
+              "id": 5,
+              "title": "Archives",
+              "path": "/archiv",
+              "productsArray": []
+            }
+          ]
+        },
+        {
+          "id": 1,
+          "title": "Services",
+          "path": "/services",
+          "image": "/images/handy_hand.png",
+          "subNav": [
+            {
+              "id": 0,
+              "title": "Développement Logiciel",
+              "path": "/softwareentwichung"
+            },
+            {
+              "id": 1,
+              "title": "Développement Électronique",
+              "path": "/electronikentwicklung"
+            },
+            {
+              "id": 2,
+              "title": "Automatisation des Bâtiments",
+              "path": "/gebaeudeautomatisierung"
+            },
+            {
+              "id": 3,
+              "title": "Fabrication et Vente",
+              "path": "/fertigung-und-vertrieb"
+            },
+            {
+              "id": 4,
+              "title": "Clients Satisfaits",
+              "path": "/zufriedene-kunden"
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "title": "Entreprise",
+          "path": "/company",
+          "image": "/images/party_light.png",
+          "subNav": [
+            {
+              "id": 0,
+              "title": "Ise",
+              "path": "/ise"
+            },
+            {
+              "id": 1,
+              "title": "Culture d'Entreprise",
+              "path": "/unternemenskultur"
+            },
+            {
+              "id": 2,
+              "title": "Agilité et Qualité",
+              "path": "/agilität-und-qualität"
+            },
+            {
+              "id": 3,
+              "title": "Partenaires et Certifications",
+              "path": "/partner-und-zertifikate"
+            },
+            {
+              "id": 4,
+              "title": "Étapes Clés",
+              "path": "/meilensteine"
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "title": "Carrière",
+          "path": "/careers",
+          "image": "/images/home_security.png",
+          "subNav": [
+            {
+              "id": 0,
+              "title": "Offres d'Emploi",
+              "path": "/stellen-angebote"
+            },
+            {
+              "id": 1,
+              "title": "Formation et Études",
+              "path": "/ausbildung-und-studium"
+            },
+            {
+              "id": 2,
+              "title": "Compatibilité Familiale",
+              "path": "/famillienfreundlichkeit"
+            },
+            {
+              "id": 3,
+              "title": "Avantages pour les Employés",
+              "path": "/mitarbeiterangebote"
+            },
+            {
+              "id": 4,
+              "title": "Vivre à Oldenburg",
+              "path": "/leben-in-oldenburg"
+            }
+          ]
+        },
+        {
+          "id": 4,
+          "title": "Actualités",
+          "path": "/news",
+          "image": "/images/girl_pc_usb.png",
+          "subNav": [
+            {
+              "id": 0,
+              "title": "Actualités Produit",
+              "path": "/produktnews"
+            },
+            {
+              "id": 1,
+              "title": "Actualités de l'Entreprise",
+              "path": "/unternemensnews"
+            },
+            {
+              "id": 2,
+              "title": "Événements",
+              "path": "/veranstaltungen"
+            },
+            {
+              "id": 3,
+              "title": "Newsletter",
+              "path": "/newsletter"
+            }
+          ]
+        },
+        {
+          "id": 5,
+          "title": "Support",
+          "path": "/service",
+          "image": "/images/fernsehen_schauen.png",
+          "subNav": [
+            {
+              "id": 0,
+              "title": "Support",
+              "path": "/support"
+            },
+            {
+              "id": 1,
+              "title": "Téléchargements",
+              "path": "/downloads"
+            },
+            {
+              "id": 2,
+              "title": "Interviews Clients",
+              "path": "/kundeninterviews"
+            },
+            {
+              "id": 3,
+              "title": "Webinaires",
+              "path": "/webinare"
+            }
+          ]
+        }
+      ]
+    },"Carousel": {
+    "carousel": [
+      {
+        "id": 0,
+        "title": "Contrôler intelligemment le chauffage via KNX",
+        "description": "SMART CONNECT KNX.",
+        "secondTitle": "",
+        "btn": "En savoir plus",
+        "image": "/images/infografik.png"
+      },
+      {
+        "id": 1,
+        "title": "Thermostat de radiateur",
+        "description": "KNX RF Multi",
+        "secondTitle": "",
+        "btn": "En savoir plus",
+        "image": "/images/knx_heater.png"
+      },
+      {
+        "id": 2,
+        "title": "Programmer et analyser.",
+        "description": "KNX RF Multi interface USB",
+        "secondTitle": "",
+        "btn": "En savoir plus",
+        "image": "/images/knx_key.png"
+      },
+      {
+        "id": 3,
+        "title": "Coupleur de média ou répéteur RF",
+        "description": "KNX RF Multi/TP",
+        "secondTitle": "",
+        "btn": "En savoir plus",
+        "image": "/images/csm.png"
+      },
+      {
+        "id": 4,
+        "title": "Détection de mouvement via KNX",
+        "description": "KNX APP KNX AXIS",
+        "secondTitle": "",
+        "btn": "En savoir plus",
+        "image": "/images/camera.png"
+      }
+    ]
+  },
+  "Products": {
+    "title": "Produits présentés",
+    "subtitle": "Notre offre de produits pour votre Smart Home.",
+    "allProducts": [
+      {
+        "id": 0,
+        "title": "Série SMART CONNECT",
+        "subtitle": "Avec notre série SMART CONNECT, nous intégrons de nombreux systèmes KNX, notamment les systèmes audio Sonos, les lampes Philips Hue et les systèmes de chauffage Vaillant, par exemple.",
+        "image": "/images/smart_solar.png",
+        "color": "bg-gradient-to-r from-[#a9a18e54] via-[#ded8c566] to-[#d1c8b259]",
+        "btn": "En savoir plus",
+        "productsArray": [
+          {
+            "id": 0,
+            "title": "SMART CONNECT KNX Accès à distance",
+            "subtitle": "Avec notre série SMART CONNECT, nous intégrons de nombreux systèmes KNX...",
+            "image": "/images/infografik.png",
+            "btn": "Lire plus"
+          },
+          {
+            "id": 1,
+            "title": "SMART CONNECT KNX e-charge II",
+            "subtitle": "Avec notre série SMART CONNECT, nous intégrons de nombreux systèmes KNX...",
+            "image": "/images/infografik.png",
+            "btn": "Lire plus"
+          },
+          {
+            "id": 2,
+            "title": "SMART CONNECT KNX Sonos",
+            "subtitle": "Avec notre série SMART CONNECT, nous intégrons de nombreux systèmes KNX...",
+            "image": "/images/infografik.png",
+            "btn": "Lire plus"
+          }
+        ]
+      },
+      {
+        "id": 1,
+        "title": "KNX RF Multi",
+        "subtitle": "Découvrez la nouvelle génération de radio KNX avec les produits KNX RF Multi.",
+        "image": "/images/home_repeater.png",
+        "color": "bg-gradient-to-r from-[#a9a18e54] via-[#ded8c566] to-[#d1c8b259]",
+        "btn": "En savoir plus",
+        "productsArray": [
+          {
+            "id": 0,
+            "title": "KNX RF Multi Interface USB",
+            "subtitle": "Avec notre série SMART CONNECT, nous intégrons de nombreux systèmes KNX...",
+            "image": "/images/knx_key.png",
+            "btn": "Lire plus"
+          },
+          {
+            "id": 1,
+            "title": "KNX RF Multi Robinet de chauffage",
+            "subtitle": "Avec notre série SMART CONNECT, nous intégrons de nombreux systèmes KNX...",
+            "image": "/images/knx_heater.png",
+            "btn": "Lire plus"
+          },
+          {
+            "id": 2,
+            "title": "KNX RF Multi/TP Coupleur de médias ou répéteur RF",
+            "subtitle": "Avec notre série SMART CONNECT, nous intégrons de nombreux systèmes KNX...",
+            "image": "/images/csm.png",
+            "btn": "Lire plus"
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "title": "SMART APP KNX Axis",
+        "subtitle": "Avec notre série SMART APP KNX, nous intégrons une variété de systèmes KNX, notamment les appareils réseau d'Axis Communications.",
+        "image": "/images/home_camera.png",
+        "color": "bg-gradient-to-r from-[#a9a18e54] via-[#ded8c566] to-[#d1c8b259]",
+        "btn": "En savoir plus",
+        "productsArray": [
+          {
+            "id": 0,
+            "title": "SMART APP KNX Axis",
+            "subtitle": "Avec notre série SMART APP KNX, nous intégrons une variété de systèmes KNX....",
+            "image": "/images/camera.png",
+            "btn": "Lire plus"
+          }
+        ]
+      }
+    ]
+  },
+  "WhatWeDo": {
+    "whatWeDo": [
+      {
+        "id": 0,
+        "title": "Produits",
+        "subtitle": "Notre gamme de produits pour votre Smart Home.",
+        "image": "/images/products.png",
+        "btn": "En savoir plus",
+        "color": "#3C4448",
+        "border": "1px solid #fff",
+        "btnColor": "#3C4448",
+        "btnBgColor": "#D19B2E",
+        "path": "/produits"
+      },
+      {
+        "id": 1,
+        "title": "Automatisation des bâtiments",
+        "subtitle": "Nous connectons le monde avec KNX.",
+        "image": "/images/gebaude.png",
+        "btn": "Découvrir",
+        "color": "#D19B2E",
+        "border": "1px solid #fff",
+        "btnColor": "#fff",
+        "btnBgColor": "#3C4448",
+        "path": "/automatisation-des-batiments"
+      }
+    ]
+  },
+  "ServiceBanner": {
+    "serviceBanner": [
+      {
+        "id": 0,
+        "title": "Logiciel",
+        "subtitle": "Nos experts développent des solutions logicielles personnalisées pour vos besoins.",
+        "image": "/images/software.png",
+        "btn": "Découvrir",
+        "color": "#3C4448",
+        "border": "1px solid #fff",
+        "btnColor": "#3C4448",
+        "btnBgColor": "#D19B2E",
+        "path": "/logiciel"
+      },
+      {
+        "id": 1,
+        "title": "Électronique",
+        "subtitle": "Nous vous fournissons toujours des solutions complètes et une gamme de services de source unique.",
+       "image": "/images/elektronics.png",
+        "btn": "En savoir plus",
+        "color": "#D19B2E",
+        "border": "1px solid #fff",
+        "btnColor": "#fff",
+        "btnBgColor": "#3C4448",
+        "path": "/electronique"
+      }
+    ]
+  },
+  "JobOffers":{
+    "title": "Un endroit cool pour travailler",
+    "subtitle": "Nous sommes toujours à la recherche de fous de Linux, de disciples de Windows, de bricoleurs d'applications, de locuteurs natifs de C++ et de nombreux autres talents.",
+    "btn": "Offres d'emploi",
+    "image": "/images/jobSearch.png"
+    },
+  
+    "NewsLetter":{
+    "title": "Lettre d'information",
+    "subtitle": "Avec la lettre d'information ise, vous êtes au courant des nouvelles fonctionnalités et des changements.",
+    "placeholder": "Entrez votre adresse e-mail",
+    "btn": "Inscrivez-vous"
+    },
+    "Support":{
+      "title":"ise Support",
+      "customerTitle": "Support client",
+      "customerSubtitle": "Contactez-nous par e-mail et par téléphone",
+      "warrantyTitle": "Garantie",
+      "warrantySubtitle": "La garantie et la protection sont assurées",
+      "userTitle": "Guides de l'utilisateur",
+      "userSubtitle": "Téléchargez le guide de l'utilisateur de votre produit Ise",
+      "fagTitle": "FAQ",
+      "fagSubtitle": "Recherchez de l'aide et des réponses sur Ise"
+    },
+    "Partners":{
+    "title": "Nous sommes fiables pour certaines des meilleures marques.",
+    "partners": [
+      {
+        "id":0,
+        "image":"/images/MSGoldPartner.png"
+      },
+      {
+        "id":1,
+        "image":"/images/linux.png"
+      },
+      {
+        "id":2,
+        "image":"/images/KNX.png"
+      },
+      {
+        "id":3,
+        "image":"/images/Axis.png"
+      }
+    ]
+   },
+   "Explore":{
+    "title": "Découvrez nos services",
+    "servicesArray": [
+      {
+        "id": 0,
+        "title": "Logiciel",
+        "subtitle": "Nos experts développent des solutions logicielles personnalisées pour vos besoins.",
+        "btn": "Découvrir",
+        "image": "/images/software_groupe.png"
+      },
+      {
+        "id": 1,
+        "title": "Électronique",
+        "subtitle": "Nous vous proposons toujours des solutions globales et un portefeuille de services en un seul point de contact.",
+        "btn": "En savoir plus",
+        "image": "/images/electronic.png"
+      }
+    ]
+  },
+  "Footer":{
+  "image": "/images/iseLogo.png",
+  "title": "Société de Logiciels et d'Électronique Individuelle GmbH",
+  "aboutUs": "À PROPOS DE NOUS",
+  "products": "Nos Produits",
+  "services": "SERVICES ISE",
+  "follow": "SUIVEZ-NOUS",
+  "emailTitle": "Entrez vos adresses e-mail pour vous abonner à notre newsletter",
+  "placeholder": "Entrez votre adresse e-mail",
+  "btn": "S'abonner",
+  "contact": "NOUS CONTACTER",
+  "contactSubtitle": "Osterstraße 15 26122 Oldenburg Allemagne",
+  "consultation": "Conseil et vente",
+  "General": "Siège social",
+  "copyright": "Copyright © 2024 ISE. Tous droits réservés.",
+  "privacy": "Politique de confidentialité",
+  "imprint": "Mentions légales",
+  "support": "Support",
+  "terms":"Conditions générales d'utilisation"
+}
+
+  }
+  
