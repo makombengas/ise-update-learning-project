@@ -7,7 +7,7 @@ import { useTranslations } from "next-intl";
 const Support = () => {
     const support = useTranslations("Support")
   return (
-    <div className="max-w-[90rem] mx-auto  text-[#3C4448] flex flex-col justify-center items-center  mt-16 py-8 md:py-16 shadow-inner rounded-md ">
+    <div className="max-w-[90rem] mx-auto  text-[#3C4448] flex flex-col justify-center items-center  mt-16 py-8 md:py-16 shadow-inner md:rounded-md ">
         <h1 className=" md:mb-8 text-[#3C4448] text-center text-[1.5rem] md:text-[1.875rem] font-bold">
           <span className="text-[2.5rem]"> {support("title")} </span>
         </h1>

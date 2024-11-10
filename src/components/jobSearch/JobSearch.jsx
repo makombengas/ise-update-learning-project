@@ -7,7 +7,7 @@ const JobSearch = () => {
   const jobOffers = useTranslations("JobOffers")
  
   return (
-    <div className="py-8  md:py-16 w-full xl:border-[.5px] xl:border-dotted  bg-gradient-to-r from-[#2a2a2718] via-[#2a2a2721] to-[#2a2a271b]  rounded-lg mb-16 h-auto max-w-[90rem] gap-8 mx-auto grid grid-cols-1 md:grid-cols-2 ">
+    <div className="py-8  md:py-16 w-full border-none md:border-[.5px] md:border-dotted  bg-gradient-to-r from-[#2a2a2718] via-[#2a2a2721] to-[#2a2a271b]  md:rounded-lg mb-16 h-auto max-w-[90rem] gap-8 mx-auto grid grid-cols-1 md:grid-cols-2 ">
         <div className="flex flex-col gap-4 justify-center items-center">
                 <h1 className="text-[#3C4448] uppercase text-[1.5rem] text-center md:text-[1.875rem] font-bold">
                     {jobOffers("title")}
